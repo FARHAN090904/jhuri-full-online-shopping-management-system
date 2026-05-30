@@ -123,6 +123,8 @@ python manage.py runserver
 ![Generate Invoice](generate_invoice(step03).png)
 ### 🧾 Invoice Downloaded
 ![Invoice](invoice_downloaded_pdf.png)
+### 🚫 Stock Out
+![Stock Out](stock_out.png)
 
 
 ### 📦 Order History
