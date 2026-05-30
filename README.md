@@ -113,12 +113,22 @@ python manage.py runserver
 
 ### 💳 Checkout
 ![Checkout](checkout.png)
+### Checkout 
+![Checkout Step](checkout(step01).png)
+
+### 🎟️ Apply Coupon
+![Apply Coupon](applycoupon.png)
+
+### 🧾 Generate Invoice
+![Generate Invoice](generate_invoice(step03).png)
+### 🧾 Invoice Downloaded
+![Invoice](invoice_downloaded_pdf.png)
+
 
 ### 📦 Order History
 ![Order History](order_history.png)
 
-### 🧾 Invoice Downloaded
-![Invoice](invoice_downloaded_pdf.png)
+
 
 ### 👤 Profile Edit
 ![Profile Edit](profile_edit.png)
@@ -132,17 +142,9 @@ python manage.py runserver
 ### 🌐 OTP Web
 ![OTP Web](otpin%20web.png)
 
-### 🎟️ Apply Coupon
-![Apply Coupon](applycoupon.png)
-
 ### 🔄 Password Reset
 ![Password Reset](password_reset.png)
 
 ### 🔒 Password Change in Profile
 ![Password Change](password_change_inprofile.png)
 
-### 🧾 Generate Invoice
-![Generate Invoice](generate_invoice(step03).png)
-
-### ✅ Checkout Step 01
-![Checkout Step](checkout(step01).png)
