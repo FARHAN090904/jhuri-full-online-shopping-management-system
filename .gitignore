@@ -5,3 +5,5 @@ venv/
 *.sqlite3
 .env
 images/
+database/*.sql
+*.dump
