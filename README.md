@@ -2,7 +2,7 @@
 
 ⚠️ **EDUCATIONAL PROJECT - NOT FOR COMMERCIAL USE**
 
-**Copyright © 2024 Md. Farhan Alam. All Rights Reserved.**
+**Copyright © 2026 Md. Farhan Alam. All Rights Reserved.**
 
 [![License](https://img.shields.io/badge/License-Educational%20Use%20Only-red.svg)](LICENSE)
 
