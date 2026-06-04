@@ -1,38 +1,54 @@
 # Jhuri - Full Online Shopping Management System
+
 ⚠️ **EDUCATIONAL PROJECT - NOT FOR COMMERCIAL USE**
-**Copyright © 2026 Md. Farhan Alam. All Rights Reserved.**
+
+**Copyright © 2024 Md. Farhan Alam. All Rights Reserved.**
+
 [![License](https://img.shields.io/badge/License-Educational%20Use%20Only-red.svg)](LICENSE)
 [![DBMS Project](https://img.shields.io/badge/Project-DBMS-blue.svg)]()
+
 ---
+
 ## 📜 Important Notice
+
 This is an **academic DBMS project** created for educational purposes.
+
 ### ✅ You CAN:
 - 👀 View and study the code
 - 📚 Learn database design and Django implementation
 - 🎓 Reference for your own academic projects (with attribution)
+
 ### ❌ You CANNOT:
 - 💰 Use for commercial purposes
 - 📋 Copy and claim as your own
 - 🎓 Submit as your academic project (plagiarism)
 - 🔄 Redistribute without permission
+
 **For licensing inquiries:** alamfarhan2004@gmail.com
+
 ---
+
 ## 🔒 Security Notice
+
 ⚠️ **Important:** For security reasons, the following files are **NOT** included:
-- settings.py (contains SECRET_KEY and database credentials)
-- .env files
+- `settings.py` (contains SECRET_KEY and database credentials)
+- `.env` files
 - Database dumps with sensitive data
+
 If you want to run this project, you must create your own configuration files.
+
 ---
+
 ## 🛠️ Tech Stack
+
 **Backend:**
 - Django (Python Web Framework)
 - MySQL (Database)
+
 **Frontend:**
 - HTML5
 - CSS3
 - JavaScript
----
 
 ## ⚙️ How to Run
 
@@ -68,10 +84,7 @@ Activate it:
 ```bash
   venv\Scripts\activate
 ```
-- **macOS/Linux:**
-```bash
-  source venv/bin/activate
-```
+
 
 ---
 
