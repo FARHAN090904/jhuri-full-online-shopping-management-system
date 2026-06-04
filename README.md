@@ -2,7 +2,7 @@
 
 ⚠️ **EDUCATIONAL PROJECT - NOT FOR COMMERCIAL USE**
 
-**Copyright © 2024 Md. Farhan Alam. All Rights Reserved.**
+**Copyright © 2026 Md. Farhan Alam. All Rights Reserved.**
 
 [![License](https://img.shields.io/badge/License-Educational%20Use%20Only-red.svg)](LICENSE)
 [![DBMS Project](https://img.shields.io/badge/Project-DBMS-blue.svg)]()
@@ -59,17 +59,15 @@ Follow these steps carefully to set up and run the project on your local machine
 Make sure you have the following installed before you begin:
 - Python 3.10+
 - MySQL Server
-- Git
+
 
 ---
-
 ### Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/jhuri.git
-cd jhuri
+git clone https://github.com/farhanalam/jhuri-full-online-shopping-management-system.git
+cd jhuri-full-online-shopping-management-system
 ```
-
 ---
 
 ### Step 2 — Create a Virtual Environment
