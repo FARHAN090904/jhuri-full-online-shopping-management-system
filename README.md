@@ -184,35 +184,37 @@ Now open your browser and go to:
 ---
 
 ## 📸 Screenshots
-
-🏠 Homepage
-
-🔐 Login Page
-
-📝 Register Page
-
-🛒 Cart Module
-
-💳 Checkout
-
-🎟️ Apply Coupon
-
-🧾 Generate Invoice
-
-🧾 Invoice Downloaded
-
-🚫 Stock Out
-
-📦 Order History
-
-👤 Profile Edit
-
-🔑 Forgot Password
-
-🔢 OTP Verification
-
-🌐 OTP Web
-
-🔄 Password Reset
-
-🔒 Password Change in Profile
+### 🏠 Homepage
+![Homepage](homepage.png)
+### 🔐 Login Page
+![Login](login.png)
+### 📝 Register Page
+![Register](register.png)
+### 🛒 Cart Module
+![Cart](cartmodule.png)
+### 💳 Checkout
+![Checkout](checkout.png)
+### Checkout 
+![Checkout Step](checkout(step01).png)
+### 🎟️ Apply Coupon
+![Apply Coupon](applycoupon.png)
+### 🧾 Generate Invoice
+![Generate Invoice](generate_invoice(step03).png)
+### 🧾 Invoice Downloaded
+![Invoice](invoice_downloaded_pdf.png)
+### 🚫 Stock Out
+![Stock Out](stock_out.png)
+### 📦 Order History
+![Order History](order_history.png)
+### 👤 Profile Edit
+![Profile Edit](profile_edit.png)
+### 🔑 Forgot Password
+![Forgot Password](forgotpassword.png)
+### 🔢 OTP Verification
+![OTP](otp.png)
+### 🌐 OTP Web
+![OTP Web](otpin%20web.png)
+### 🔄 Password Reset
+![Password Reset](password_reset.png)
+### 🔒 Password Change in Profile
+![Password Change](password_change_inprofile.png)
